@@ -1,2 +1,3 @@
-# text-advent-game-py
-Text-Based Adventure Game
+
+# Text-Based Adventure Game
+A game where players make decisions to navigate through a story.
